@@ -5,6 +5,12 @@
 </p>
 
 <h1 align="center">
+  To run this proyect...
+</h1>
+
+run "npm run storybook" or "yarn storybook".
+
+<h1 align="center">
   Chromatic's Intro to Storybook React template
 </h1>
 
